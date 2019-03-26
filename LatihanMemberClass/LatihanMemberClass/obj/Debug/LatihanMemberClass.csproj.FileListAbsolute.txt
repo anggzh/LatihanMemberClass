@@ -1,0 +1,7 @@
+c:\users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+c:\users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+c:\users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+c:\users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+c:\users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
